@@ -1,0 +1,360 @@
+P  ; A ; with ; Of, with, within, to
+N  ; Af ; you ; They, you (plural)
+TENSE  ; Ad ; did ; Did, done
+N  ; Agril ; silver ; Silver metal
+N  ; Agrul ; Stone carving ; lines on the face of an old Dwarf
+ADJ  ; Ald ; Old ;
+N  ; Aldrhun ; Old runes ;
+TENSE   ; An ; shall ; Will, shall, am going to, with purpose
+TENSE   ; Anad ; shall have done ;
+N   ; Angaz ; Ironwork ; industrial work
+N   ; Ang ; Ironwork ; industrial work
+N   ; Ankor ; realm ; country
+ADV   ; Anu ; very soon ; any minute now!
+N  ; Argul ; Stone carving ; lines on the face of a very old Dwarf
+N  ; Arkhandrazkal ; rune inscribing ; The art of inscribing runes on precious metal with a Troll's tooth
+N  ; Az ; War axe ;
+N  ; Az-Dreugi ; Great axe ;
+N  ; Azgal ; Treasure hoard ;
+N  ; Azkahr ; Massive masonry ;
+N  ; Azril ; Silvery colour ;
+N  ; Azul ; a sturdy Dwarf ;
+
+
+V   ; Bak ; punch ;
+N   ; Bar ; Fortified gate ;
+N   ; Barak ; Fortified gate ;
+N   ; Barag ; Cannon ; siege machine, war machine
+V   ; Baraz ; oath ;
+V   ; Bezek ; Own ;
+N   ; Bezeki ; Owner ; 
+P   ; Bin ; In ;
+N   ; Boga ; A candle which blows out unexpectedly ; making a tunnel dark
+N   ; Bok ; Banging one's head on a low tunnel ceiling ; a characteristic scar caused by this.
+N   ; Boki ; Dwarf miners ;
+N   ; Bolg ; Large fat belly ; Also a state of extreme wealth, age and contentment
+ADJ   ; Bran ; Clever ; alert, mentally sharp
+N   ; Brodag ; An annual brewing festival of Grungni
+N   ; Brog ; Bread ; cake
+N   ; Bryn ; Gold ; which shines brightly in the sunlight. Anything that is shiny or brilliant, or brilliantly coloured or decorated.
+N   ; Brynduraz ; Brightstone
+
+
+N   ; Chuf ; emergency cheese ; Piece of old cheese kept under a miner's hat for emergencies
+
+ADJ   ; Dal ; good old ;
+N   ; Dammaz ; Grudge ; bitterness
+N   ; Dammaz-Kron ; The Book of Grudges ;
+N   ; Dar ; challenge ;
+N   ; Dawi ; Dwarfs ;
+N   ; Dawi'zharr ; Chaos Dwarfs ;
+ADJ   ; Dawr ; reliable ;
+ADJ   ; Deb ; raw ;
+N   ; Dharkhangron ; underground ;
+ADJ   ; Doh ; Stupid ;
+V   ; Dok ; behold ;
+N   ; Dongliz ; dick ;
+ADJ   ; Dork ; Giant ;
+N   ; Drakendrengi ; Dragonslayer ;
+N   ; Drakk ; Dragon ;
+N   ; Drangthrong ; Huge Dwarf army ;
+N   ; Drazh ; Black ;
+ADJ   ; Drek ; Far ;
+V   ; Dreng ; slay ;
+N   ; Drengi ; Slayer ;
+N   ; Drin ; Road ;
+N   ; Dringorak ; secret passageway ;
+N   ; Dron ; Thunder ;
+N   ; Drongnel ; A Dragon stew with strong mushrooms, marinated in strong ale ;
+V   ; Drung ; defeat ;
+N   ; Duk ; Low, narrow tunnel ;
+N   ; Dum ; Chaos ;
+N   ; Dunkin ; Annual Dwarf bathing ritual ;
+ADJ   ; Durak ; Stone-like ;
+N   ; Duraz ; Stone ;
+
+N   ; Ek ; it ; He, she, it, you (singula)
+N   ; Ekrund ; A staircase descending belowground
+N   ; Elgi ; Elves ; unbearded
+ADJ   ; Elgram ; Weak ; , thin, feeble.
+N   ; Elgraz ; Construction that seems about to collapse ;
+N   ; Endrink ; Engine ; mechanical
+N   ; Endrinkuli ; Engineer ; mechanic (particularly a Dwarf engineer)
+
+N   ; Fleg ; Banner ; standard
+N   ; Frongol ; Mushrooms which grow at the back of a cave ;
+ADJ   ; Frundrar ; Tainted ; a reference to Chaos Dwarfs
+
+N   ; Gal ; gold ;
+N   ; Galaz ; Gold of a particular ornamental value ;
+N   ; Galbaraz ; Oathgold ;
+V   ; Gand ; discover ;
+ADJ   ; Garaz ; Fearless ; rebellious.
+N   ; Gazan ; Wasteland ; plains
+N   ; Gazul ; Ancestor God and Protector of the Dead ;
+N   ; Ghal ; Skull ;
+N   ; Ghal-Maraz ; Skull-Splitter ;
+N   ; Gibal ; Fragments of food enmeshed in a Dwarf's beard ;
+N   ; Ginit ; Small stone which works its way into one's boot causing discomfort ;
+N   ; Girt ; Broad tunnel with plenty of headroom ;
+ADJ   ; Gnol ; Old and reliable ; proven to be trustworthy, wise
+N   ; Gnollengrom ; Respect due long beard ;
+N   ; Gnorl ; An especially bright and obvious boil or similar blemish on the end of the nose ;
+N   ; Gor ; Wild beast ;
+ADJ   ; Gorak ; cunning ; uncanny
+ADJ   ; Gorl ; yellow ; gold which is soft and yellow
+ADJ   ; Gorm ; Old and wise; powerful, bearded
+N   ; Gorog ; Ale ; high spirits; a drinking binge
+N   ; Goruz ; horn ; made of horns
+VI   ; Got ; March quickly ;
+N   ; Gov ; Thane ;
+N   ; Gozunda ; condom ;
+N   ; Grik ; Neck pain caused by stooping in low tunnels ;
+ADJ   ; Grim ; Harsh ;
+ADJ   ; Grimaz ; cruel ;
+N   ; Grimazul ; Steel ;
+N   ; Grimnir ; Ancestor God of Dwarf Slayers and Warriors ;
+N   ; Grindal ; Long flaxen plaits ;
+N   ; Grint ; Waste rock ;
+N   ; Grizal ; Poor meat ;
+N   ; Grizdal ; Old Ale ;
+ADJ   ; Grob ; green ; 
+N   ; Grobi ; Goblin ;
+N   ; Grobkaz ; evil doings ;
+N   ; Grobkul ; Art of stalking Goblins in caves ;
+N   ; Grog ; Inferior ale ;
+ADJ   ; Grom ; tough ; hard.
+N   ; Gromdal ; An ancient artefact ;
+N   ; Gromril ; Extremely rare, valuable and sturdy metal ;
+N   ; Gromthi ; Ancestor ;
+N   ; Grong ; Anvil ;
+N   ; Grongol ; Tomb vaults of ancestors ;
+N   ; Gronti ; Giants ;
+N   ; Grumbak ; grumble ;
+N   ; Grumbaki ; whiner ;
+N   ; Grund ; Hammer ;
+N   ; Grundlid ; Hammertongue ;
+N   ; Grung ; mine ; 
+N   ; Grungnaz ; smithing ;
+N   ; Grungni ; Dwarf Ancestor God of smithing and forging.
+N   ; Grungron ; metalwork ;
+N   ; Gryntitrogg ; coming-of-age ritual ;
+V   ; Guz ; consume ;
+V   ; Guzzen ; Feed ;
+
+
+N   ; Har ; Fire ;
+N   ; Haraz ; lava ;
+N   ; Hazkal ; fiery young warrior ;
+N   ; Hirn ; Horn ;
+N   ; Hruki ; Breed of mountain goat ; 
+VI   ; Hunk ; Carry heavy rocks ;
+N   ; Huzhrung ; Massive city wall ; 
+
+N   ; Ik ; Putting one's hand into something slimy and unpleasant in the dark ;
+N   ; Irkul ; Pillared vault hewn into rock ;
+N   ; Izor ; Copper ;
+N   ; Izril ; Jewels ;
+
+
+
+N   ; Kadrin ; Mountain pass ;
+N   ; Kalan ; Clan ;
+N   ; Kar ; Big stone ;
+N   ; Karag ; Volcano ; barren mountain
+N   ; Karak ; big stone place ;
+N   ; Karaz ; old Mountain ;
+N   ; Karaz-Ankor ; The Dwarf empire of Karak Ankor ;
+N   ; Karak-Azgal ; Treasure Mountain ;
+N   ; Karak-Azul ; Metal Mountain ;
+N   ; Karaz-a-Karak ; ; Eternal Mountain ;
+N   ; Karazi ; Mountaineer ; 
+N   ; Karin ; Shield ; temporary protection
+N   ; Karugromthi ; Living Ancestor ;
+N   ; Katalhuyk ; arrival ;
+N   ; Kazad ; Fortress ;
+N   ; Kazak ; War ;
+N   ; Khaz ; Underground hall ;
+N   ; Khazhunki ; Knight ; cavalry, rider (literally "carried warrior")
+N   ; Khazid ; Town ; village, settlement
+N   ; Khazuk-Khazuk-Khazuk-ha ; Dwarf battle cry ; (shortened from Khazukan Kazakit-ha)
+N   ; Khazukan ; hall-dwellers ;
+N   ; Khazukan-Kazakit-ha ; Dwarf battle cry ;
+N   ; Khrum ; War drum ; 
+N   ; Khulghur ; Art of hunting and catching Trolls ;
+N   ; Klad ; Armour ; iron plating
+N   ; Klinka ; Chisel ;
+N   ; Klinkarun ; Commonly used runes ; usually scratched into rock (literally "Chisel-runes")
+ADJ   ; Kol ; black ;
+N   ; Konk ; Large and bulbous nose ;
+N   ; Krink ; Bad back ;
+N   ; Kro ; Crow ;
+N   ; Kron ; record ;
+N   ; Kruk ; Unexpected disappointment ;
+N   ; Krunk ; disaster ;
+N   ; Krut ; Discomfiting disease contracted from mountain goats ; 
+N   ; Kruti ; insult ;
+N   ; Kulgur ; The art of cooking Troll ; 
+N   ; Kuri ; Meat stew boiled up by traveling Dwarfs from whatever ingredients are at hand, traditionally spiced with wild berries ;
+
+ADJ   ; Langk ; long ; 
+N   ; Lid ; Tongue ;
+ADJ   ; Lok ; Very intricate ;
+
+N  ; Makaz ; weapon ; 
+N   ; Maraz ; Splitter ;
+N   ; Mhornar ; Shadow ;
+N   ; Migdhal ; Fortified outpost ;
+N   ; Mingol ; Tall watchtower built on lowland ; 
+N   ; Mizpal ; Volcanic glass ;
+N   ; Morgrim ; Ancestor God of Engineers ;
+N   ; Muckaz ; Close or valued Clansmen ;
+N   ; Muzkhgrum ; Blast furnace slag ;
+
+N   ; Naggrund ; ruin ; 
+N   ; Nar ; east ;
+N   ; Narwangli ; A dung collector or Dwarf who smells strongly of dung ;
+N   ; Nathgar ; Leather embroidered with gold thread in runic or animal designs ;
+N   ; Nogarung ; Drinking tankard made from the skull of a Troll ;
+N   ; Norn ; Barren earth ;
+ADV   ; Nu ; at this time ;
+N   ; Nubungki ; A Dwarf child deformed at birth ;
+
+N   ; Ogri ; Ogres ;
+N   ; Ok ; skillful ;
+N   ; Okri ; Craftsman ; 
+N   ; Ongrun ; Mercenaries ;
+N   ; Onk ; Comradely accretion of dirt and grime on a company of Dwarfs who have spent many days underground ;
+N   ; Or ; I ;
+N   ; Ori ; Work ; 
+N   ; Orrud ; Red cloud ; 
+
+N  ; Ragarin ; Coarse and uncomfortable clothing made from Troll hide ;
+N   ; Rhun ; Rune ;
+N   ; Rhunki ; Runesmith ;
+N   ; Rhyn ; Redstone ;
+N   ; Rik ; Lord ;
+N   ; Rikkaz ; hammer ;
+N   ; Rikkazen ; Crush ; to beat to a pulp, to turn to rubble
+N   ; Rikkit ; A small stone which falls on your head as you walk down a tunnel ;
+ADJ   ; Ril ; shiny ;
+N   ; Rink ; Comand ;
+N   ; Rinn ; A lady Dwarf or king's consort ;
+N   ; Rogwak ; An improvised team game played underground and using anything to hand as a ball ;
+N   ; Rorkaz ; Informal shouting contest ; 
+N   ; Ruf ; Large underground dome ;
+N   ; Runk ; One-sided fight ;
+N   ; Rutz ; Slackness of the bowels caused by excessive ale consumption ;
+N   ; Ruvalk ; River ;
+
+TENSE   ; Sar ; May ;
+ADJ   ; Skarrenruf ; bright blue ;
+N   ; Skaud ; Song ;
+N   ; Skaz ; Thievery ; 
+N   ; Skazi ; Thief ;
+N   ; Skof ; A cold meal eaten underground ;
+VI   ; Skrat ; scavenge ; 
+N   ; Skrati ; Poor prospector ;
+N   ; Skree ; rocky ground ;
+N   ; Skruff ; A scrawny beard ;
+VI   ; Skrund ; hew with hammers and picks ;
+N   ; Skuf ; skirmish ;
+V   ; Smak ; Punish physically ;
+N   ; Smednir ; Ancestor God of Metalworking, Jewelsmithing, and Artisans ;
+V   ; Stok ; strike ;
+VI   ; Strol ; travel leisurely ;
+N   ; Stromez ; Stream ;
+
+V   ; Thag ; assasinate ;
+N   ; Thagi ; Murderous traitor ;
+N   ; Thaggoraki ; Ratmen ;
+N   ; Thrindrongol ; secure treasure place ;
+N   ; Thingaz ; Dense forest ;
+N   ; Thongli ; Headband worn by warriors who have slain an Orc or Goblin ;
+N   ; Thrag ; Wound ;
+N   ; Thragh ; Tribute ; 
+N   ; Throng ; Army ;
+N   ; Throngrink ; Clan Elder ;
+N   ; Thrund ; black powder ;
+N   ; Thrung ; Shieldwall ;
+N   ; Thrynaz ; Rules ;
+N   ; Thryng ; Shrine ;
+N   ; Thungni ; Ancestor God of Runesmithing ;
+N   ; Tiwaz ; Rest ; catching one's breath after hard labour; inn or boarding house
+N   ; Trogg ; Feast ;
+N   ; Troll ; Troll ;
+N   ; Trolldrangi ; Trollslayer ;
+N   ; Tromm ; Beard ; respect due to age or experience
+N   ; Tusk ; Tooth ;
+
+N   ; Ufdi ; A vain Dwarf ; a Dwarf who excessively preens his beard; a Dwarf who cannot be trusted to fight
+N   ; Um ; Them ; those, these
+N   ; Umanar ; indecision ;
+ADJ   ; Umgak ; Shoddy ; (Literally "Human-made".)
+N   ; Umgi ; Humans ;
+VI   ; Unbak ; Break permanently ;
+N   ; Unbaraki ; An oathbreaker ; there is nothing worse in Dwarf estimation
+N   ; Und ; A mountain-side watchpost ; carved into the mountain-side, keep, capture, keep-out, hold down
+N   ; Undi ; guard ;
+N   ; Ungdrin ; Underway ;
+N   ; Ungdrin Ankor ; The ancient underground passage network ;
+N   ; Ungor ; Cavern ;
+N   ; Ungrim ; untrustworthy Dwarf ;
+V   ; Urbar ; Trade ;
+N   ; Urbaz ; Trading post ;
+N   ; Urk ; foul thing ; also fear, to be afraid of, to retreat
+N   ; Urkdrengi ; Orcslayer ;
+N   ; Ut ; we ;
+N   ; Uzkul ; Bones ;
+N   ; Uzgul ; Bones ;
+N   ; Uzkulak ; Place of Bones ; 
+N   ; Uzkular ; The Undead ;
+
+N   ; Valaya ; Ancestor Goddess of the Hearth, Healing, and Brewing ;
+N   ; Valdahaz ; Brewery ;
+N   ; Varag ; Mad dog ;
+N   ; Varf ; Wolf ;
+N   ; Varn ; Mountain lake ;
+N   ; Varr ; Sea ;
+N   ; Varrkhulg ; Chief of enemy tribes ;
+N   ; Vengryn ; Vengeance ;
+N   ; Vithang ; Merchant ;
+ADJ   ; Vlag ; Lonely ;
+N   ; Vongal ; Raiding band ;
+N   ; Vorkhul ; Migrating horde of Orcs and Goblins ;
+N   ; Vorn ; Farmland ;
+N   ; Vulkhrund ; Cavernous hiding place ;
+
+
+N   ; Wanaz ; A disreputable Dwarf with an unkempt beard ;
+N   ; Wand ; Magical rune staff ; 
+N   ; Wattock ; An unsuccessful Dwarf prospector ; a down-at-heel Dwarf; an insult
+N   ; Wazzock ; foolish, gullible Dwarf ;
+N   ; Werit ; state of befuddlement ; 
+N   ; Wulthrung ; Payment ;
+N   ; Wutraz ; Spear ;
+N   ; Wutroth ; Wood from an ancient mountain oak ; 
+N   ; Wyr ; snow ;
+
+N   ; Yar ; west ; 
+
+N   ; Zagz ; saga ; 
+N   ; Zak ; An isolated mountain hut ; 
+N   ; Zaki ; A crazed Dwarf who wanders in the mountains ; 
+ADJ   ; Zan ; red ; 
+N   ; Zanen ; A bleeding wound ; 
+N   ; Zanguzaz ; Vampire ;
+V   ; Zank ; Cleave ;
+N   ; Zaraz ; Gift ;
+N   ; Zharr ; Fire ;
+N   ; Zharr-Naggrund ; Desolation of Fire ;
+N   ; Zhuf ; Waterfall ;
+N   ; Zhufbar ; Torrent-gate ;
+ADJ   ; Zilfin ; breezy ;
+N   ; Zint ; The meal tin ;
+N   ; Zinti ; Tinsmith ;
+N   ; Zon ; Sun ;
+N   ; Zorn ; mountainous land ;
+N   ; Zorn-Uzkul ; Plateau of Bones ;
+N   ; Zul ; Iron ;
+N   ; Zunthrum ; Statues ;
